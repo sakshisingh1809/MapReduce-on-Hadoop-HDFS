@@ -1,5 +1,5 @@
 # MapReduce-on-Hadoop-HDFS
-Preparing your Hadoop infrastructure. Implementing WordCount and BiGrams MapReduce on Hadoop HDFS
+Preparing your Hadoop infrastructure. Implementing WordCount MapReduce on Hadoop HDFS
 
 In order to practically understand how data flows through a map and reduce computational pipeline,
 you are going to implement a WordCount example yourself. WordCount is a simple application that
